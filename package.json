@@ -1,0 +1,17 @@
+{
+  "name": "windicss-boilerplate",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.2.3"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "vite-plugin-windicss": "^0.15.10",
+    "windicss": "^2.5.14"
+  }
+}
