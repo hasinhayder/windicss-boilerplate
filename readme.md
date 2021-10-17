@@ -1,13 +1,13 @@
 # Run the development server
 ```
-git clone https://github.com/hasinhayder/windicss-boilerplate.git
-cd windicss-boilerplate
-yarn
-yarn dev
+git clone https://github.com/unimrgm/windicss-starter.git YOUR_PROJECT
+cd YOUR_PROJECT
+npm install
+npm run dev
 ```
 
 # Build
 ```
-yarn build
+npm run build
 ```
 
