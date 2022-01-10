@@ -5,7 +5,7 @@ export default {
   plugins: [WindiCSS()],
   server: {
     open: '/index.html',
-    port: 3116
+    // port: 3116
   },
   build: {
     rollupOptions: {
