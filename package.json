@@ -7,11 +7,11 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.7.13"
+    "vite": "^2.8.1"
   },
   "dependencies": {
     "path": "^0.12.7",
-    "vite-plugin-windicss": "^1.6.3",
+    "vite-plugin-windicss": "^1.7.0",
     "windicss": "^3.4.3"
   }
 }
